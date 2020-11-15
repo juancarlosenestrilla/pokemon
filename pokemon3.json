@@ -311,210 +311,190 @@
       }]
     }, {
       "id": 11,
-      "num": "016",
-      "name": "Pidgey",
-      "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+      "num": "801",
+      "name": "Magearna",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png",
       "type": [
-        "Normal",
-        "Volador"
-      ],
-      "height": "0.3 m",
-      "weight": "1.8 kg",
-      "candy": "Pidgey Candy",
-      "egg": "2 km",
-      "spawn_chance": 0.054,
-      "avg_spawns": 0.94,
-      "spawn_time": "12:08",
-      "multipliers": [1.6],  
-      "weaknesses": [
-        "Electrico",
-        "Hielo",
-        "Roca"
-      ],
-        "next_evolution": [{
-        "num": "017",
-        "name": "Pidgeotto"
-        },{
-          "num": "018",
-          "name": "Pidgeot"
-      }]
-    }, {
-      "id": 12,
-      "num": "028",
-      "name": "Sandslash",
-      "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
-      "type": [
-        "Tierra"
-      ],
-      "height": "1.0 m",
-      "weight": "29.5 kg",
-      "candy": "Sandslash Candy",
-      "egg": "3 km",
-      "spawn_chance": 0.90,
-      "avg_spawns": 1.09,
-      "spawn_time": "10:10",
-      "multipliers": null,  
-      "weaknesses": [
-        "Agua",
-        "Planta",
-        "Hielo"
-      ],
-      "prev_evolution": [{
-        "num": "027",
-        "name": "Sansshrew"
-      }],
-        "next_evolution": [{
-        "num": "0",
-        "name": "Esta es la evolución final"
-        }]
-    }, {
-      "id": 13,
-      "num": "031",
-      "name": "Nidoqueen",
-      "img": "http://www.serebii.net/pokemongo/pokemon/031.png",
-      "type": [
-        "Veneno",
-        "Tierra"
-      ],
-      "height": "1.3 m",
-      "weight": "60.0 kg",
-      "candy": "Nidoqueen Candy",
-      "egg": "2 km",
-      "spawn_chance": 0.85,
-      "avg_spawns": 2.0,
-      "spawn_time": "15:06",
-      "multipliers": null,  
-      "weaknesses": [
-        "Agua",
-        "Psíquico",
-        "Tierra"
-      ],
-      "prev_evolution": [{
-        "num": "029",
-        "name": "Nidoran"
-      }, {
-        "num": "030",
-        "name": "Nidorina"
-      }],
-        "next_evolution": [{
-        "num": "0",
-        "name": "Esta es la evolución final"
-        }]
-    }, {
-      "id": 14,
-      "num": "033",
-      "name": "Nidorino",
-      "img": "http://www.serebii.net/pokemongo/pokemon/033.png",
-      "type": [
-        "Veneno"
-      ],
-      "height": "0.9 m",
-      "weight": "19.5 kg",
-      "candy": "Nidorino Candy",
-      "egg": "1 km",
-      "spawn_chance": 0.97,
-      "avg_spawns": 1.32,
-      "spawn_time": "17:30",
-      "multipliers": [1.6],  
-      "weaknesses": [
-        "Psíquico",
-        "Tierra"
-      ],
-      "prev_evolution": [{
-        "num": "032",
-        "name": "Nidoran"
-      }],
-        "next_evolution": [{
-        "num": "034",
-        "name": "Nidoking"
-        }]
-    }, {
-      "id": 15,
-      "num": "040",
-      "name": "Wigglytuff",
-      "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
-      "type": [
-        "Normal",
+        "Acero",
         "Hada"
       ],
       "height": "1.0 m",
-      "weight": "12 kg",
-      "candy": "Wigglytuff Candy",
-      "egg": "3 km",
-      "spawn_chance": 0.716,
-      "avg_spawns": 1.8,
-      "spawn_time": "22:36",
-      "multipliers": null,  
-      "weaknesses": [
-        "Acero",
-        "Veneno"
-      ],
-      "prev_evolution": [{
-        "num": "174",
-        "name": "Igglybuff"
-      }, {
-        "num": "039",
-        "name": "Jigglypuff"
-      }],
-        "next_evolution": [{
-        "num": "0",
-        "name": "Esta es la evolución final"
-        }]
-    }, {
-      "id": 16,
-      "num": "048",
-      "name": "Venonat",
-      "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
-      "type": [
-        "Bicho",
-        "Veneno"
-      ],
-      "height": "1.0 m",
-      "weight": "30.0 kg",
-      "candy": "Venonat Candy",
-      "egg": "3 km",
-      "spawn_chance": 0.99,
-      "avg_spawns": 0.77,
-      "spawn_time": "16:03",
-      "multipliers": [2.6],  
+      "weight": "80.5 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
       "weaknesses": [
         "Fuego",
-        "Psíquico",
-        "Volador",
-        "Roca"
+        "Tierra"
       ],
-        "next_evolution": [{
-        "num": "049",
-        "name": "Venomoth"
-        }]
+      "next_evolution": [{
+      "num": "0",
+      "name": "No Evolucina"
+      }]
+    }, {
+      "id": 12,
+      "num": "800",
+      "name": "Necrozma",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png",
+      "type": "Psíquico",
+      "height": "2.4 m",
+      "weight": "230.0 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Fantasma",
+        "Siniestro",
+        "Bicho" ],
+      "next_evolution": [{
+      "num": "0",
+      "name": "Esta es la evolución final"
+             } ]
+    }, {
+      "id": 13,
+      "num": "798",
+      "name": "Kartana",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/798.png",
+      "type": [
+          "Planta",
+          "Acero"
+      ],
+      "height": "0.3 m",
+      "weight": "0.1 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+          "Fuego",
+          "Lucha"],
+      "next_evolution": [{
+          "num": "0",
+          "name": "Esta es la evolución final"
+      }]    
+    }, {
+      "id": 14,
+      "num": "100",
+      "name": "Voltorb",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+      "type": "Electrico",
+      "height": "0.5 m",
+      "weight": "10.4 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+          "Tierra" ],
+      "next_evolution": [
+          {
+              "num": "101",
+              "nombre": "Electrode"
+          }
+      ]   
+    }, {
+      "id": 15,
+      "num": "102",
+      "name": "Exeggcute",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+      "type": [
+          "Planta",
+          "Psíquico"
+      ],
+      "height": "0.4 m",
+      "weight": "2.5 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+          "Fantasma",
+          "Fuego",
+          "Volador",
+          "Hielo",
+          "Siniestro",
+          "Veneno",
+          "Bicho"
+      ],
+      "next_evolution": [
+          {
+              "num": "103",
+              "name": "Exeggutor"
+          }
+      ]
+    }, { 
+      "id": 16,
+      "num": "104",
+      "name": "Cubone",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+      "type": "Tierra",
+      "height": "0.4 m",
+      "weight": "6.5 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+          "Agua",
+          "Hielo",
+          "Planta"
+      ],
+      "next_evolution": [
+          {
+              "num": "105",
+              "name": "Marowak"
+          }
+      ]
     }, {
       "id": 17,
-      "num": "055",
-      "name": "Golduck",
-      "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
-      "type": [
-        "Agua"
-      ],
-      "height": "1.7 m",
-      "weight": "76.6 kg",
-      "candy": "Golduck Candy",
-      "egg": "4 km",
-      "spawn_chance": 0.9,
-      "avg_spawns": 0.97,
-      "spawn_time": "25:48",
-      "multipliers": null,  
+      "num": "106",
+      "name": "Hitmonlee",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+      "type": "Lucha",
+      "height": "1.5 m",
+      "weight": "49.8 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
       "weaknesses": [
-        "Planta",
-        "Eléctrico"
+          "Hada",
+          "Volador",
+          "Psíquico"
       ],
-      "prev_evolution": [{
-        "num": "054",
-        "name": "Psyduck"
-      }],
-        "next_evolution": [{
-        "num": "0",
-        "name": "Esta es la evolución final"
-        }]
+      "next_evolution": [
+          {
+              "num": "107",
+              "name": "Hitmonchan"
+          },
+          {
+              "num": "237",
+              "name": "Hitmontop"
+          }
+      ]    
     }, {
       "id": 18,
       "num": "059",
@@ -546,67 +526,65 @@
         }]
     }, {
       "id": 19,
-      "num": "067",
-      "name": "Machoke",
-      "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
-      "type": [
-        "Lucha"
-      ],
-      "height": "1.5 m",
-      "weight": "70.5 kg",
-      "candy": "Machoke Candy",
-      "egg": "",
-      "spawn_chance": 0.78,
-      "avg_spawns": 1.10,
-      "spawn_time": "25:30",
-      "multipliers": [1.7],  
+      "num": "109",
+      "name": "Koffing",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+      "type": "Veneno",
+      "height": "0.6 m",
+      "weight": "1.0 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
       "weaknesses": [
-        "Psíquico",
-        "Volador",
-        "Hada"
+          "Tierra",
+          "Psíquico"
       ],
-      "prev_evolution": [{
-        "num": "066",
-        "name": "Machop"
-      }],
-        "next_evolution": [{
-        "num": "068",
-        "name": "Machamp"
-        }]
+      "next_evolution": [
+          {
+              "num": "110",
+              "name": "Weezing"
+          }
+      ]    
     }, {
       "id": 20,
-      "num": "076",
-      "name": "Golem",
-      "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
+      "num": "111",
+      "name": "Rhyhorn",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
       "type": [
-        "Roca",
-        "Tierra"
+          "Tierra",
+          "Roca"
       ],
-      "height": "1.4 m",
-      "weight": "300 kg",
-      "candy": "Golem Candy",
-      "egg": "3 km",
-      "spawn_chance": 0.045,
-      "avg_spawns": 0.94,
-      "spawn_time": "30:42",
-      "multipliers": null,  
+      "height": "1.0 m",
+      "weight": "115.0 kg",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
       "weaknesses": [
-        "Acero",
-        "Lucha",
-        "Hielo",
-        "Tierra"
+          "Acero",
+          "hielo",
+          "Agua",
+          "Lucha",
+          "Planta",
+          "Tierra"
       ],
-      "prev_evolution": [{
-        "num": "074",
-        "name": "Geodude"
-      }, {
-        "num": "075",
-        "name": "Graveler"
-      }],
-        "next_evolution": [{
-        "num": "0",
-        "name": "Esta es la evolucion final"
-        }]
+      "next_evolution": [
+          {
+              "num": "112",
+              "name": "Rhydon"
+          },
+          {
+              "num": "464",
+              "name": "Rhyperior"
+          }
+      ]    
     }, {
       "id": 21,
       "num": "084",
