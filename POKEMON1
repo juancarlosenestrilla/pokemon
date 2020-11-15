@@ -37,21 +37,21 @@
         {
             "id": 2,
             "num": "813",
-            "nombre": " Scorbunny",
+            "name": " Scorbunny",
             "img": "https://static.wikia.nocookie.net/espokemon/images/1/1b/Raboot.png",
-            "tipo": "Fuego",
-            "altura": "0.6 m",
-            "peso": "9.0 kg",
+            "type": "Fuego",
+            "height": "0.6 m",
+            "weight": "9.0 kg",
             "candy": "Bulbasaur Candy",
             "candy_count": 25,
-            "huevo": "2 km",
+            "egg": "2 km",
             "spawn_chance": 69,
             "avg_spawns": 69,
             "spawn_time": "20:00",
-            "multiplicadores": [
+            "multipliers": [
                 1.58
             ],
-            "debilidades": [
+            "weaknesses": [
                 "Agua",
                 "tierra",
                 "roca"
