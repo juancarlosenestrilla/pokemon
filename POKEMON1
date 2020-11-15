@@ -221,9 +221,9 @@
                 "Lucha",
                 "Tierra"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+            }]
         },
         {
             "id": 8,
@@ -252,9 +252,9 @@
                 "siniestro",
                 "Roca"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "no evoluciona"
-            ]
+        }]
         },
         {
             "id": 9,
@@ -319,9 +319,9 @@
                 "Hada",
                 "Psíquico"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+            }]
         },
         {
             "id": 11,
@@ -347,9 +347,9 @@
                 "Fuego",
                 "Tierra"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+             } ]
         },
         {
             "id": 12,
@@ -373,9 +373,9 @@
                 "Siniestro",
                 "Bicho"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+             } ]
         },
         {
             "id": 13,
@@ -401,9 +401,9 @@
                 "Fuego",
                 "Lucha"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+            }]
         },
         {
             "id": 14,
@@ -972,9 +972,9 @@
                 "Hielo",
                 "Roca"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 " No evoluciona"
-            ]
+            }]
         },
         {
             "id": 32,
@@ -1029,9 +1029,9 @@
                 "Electrico",
                 "Roca"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+             } ]
         },
         {
             "id": 34,
@@ -1057,9 +1057,9 @@
                 "Roca",
                 "Hielo"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+            }]
         },
         {
             "id": 35,
@@ -1116,9 +1116,9 @@
                 "Siniestro",
                 "Bicho"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+            }]
         },
         {
             "id": 37,
@@ -1142,9 +1142,9 @@
                 "Siniestro",
                 "Bicho"
             ],
-            "next_evolution": [
+            "next_evolution": [{
                 "No evoluciona"
-            ]
+            }]
         },
         {
             "id": 38,
