@@ -2,40 +2,39 @@
     "pokemon": [
         {
             "id": 1,
-            "num": "813",
-            "nombre": " Scorbunny",
-            "img": "https://static.wikia.nocookie.net/espokemon/images/1/1b/Raboot.png",
-            "tipo": "Fuego",
-            "altura": "0,6 m",
-            "peso": "9.0 kg",
-            "candy": "Bulbasaur Candy",
-            "candy_count": 25,
-            "huevo": "2 km",
-            "spawn_chance": 69,
-            "avg_spawns": 69,
-            "spawn_time": "20:00",
-            "multiplicadores": [
-                1.58
-            ],
-            "debilidades": [
-                "Agua",
-                "tierra",
-                "roca"
-            ],
-            "next_evolution": [
-                {
-                    "num": "814",
-                    "nombre": "Raboot"
-                },
-                {
-                    "num": "815",
-                    "nombre": "Cinderace"
-                }
-            ]
+    "num": "001",
+    "name": "Bulbasaur",
+    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.71 m",
+    "weight": "6.9 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "002",
+      "name": "Ivysaur"
+    }, {
+      "num": "003",
+      "name": "Venusaur"
+    }]
         },
         {
             "id": 2,
-            "num": "001",
+            "num": "002",
             "nombre": "Bulbasaur",
             "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
             "tipo": "Césped",
