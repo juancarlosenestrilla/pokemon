@@ -425,9 +425,7 @@
             "spawn_chance": 69,
             "avg_spawns": 69,
             "spawn_time": "20:00",
-            "multipliers": [
-                1.58
-            ],
+            "multipliers": [1.58],
             "weaknesses": [
                 "Tierra"
             ],
@@ -488,9 +486,7 @@
             "spawn_chance": 69,
             "avg_spawns": 69,
             "spawn_time": "20:00",
-            "multipliers": [
-                1.58
-            ],
+            "multipliers": [1.58],
             "weaknesses": [
                 "Agua",
                 "Hielo",
