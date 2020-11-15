@@ -1,0 +1,1576 @@
+{
+    "pokemon": [
+        {
+            "id": 1,
+            "num": "813",
+            "nombre": " Scorbunny",
+            "img": "https://static.wikia.nocookie.net/espokemon/images/1/1b/Raboot.png",
+            "tipo": "Fuego",
+            "altura": "0,6 m",
+            "peso": "9.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "tierra",
+                "roca"
+            ],
+            "next_evolution": [
+                {
+                    "num": "814",
+                    "nombre": "Raboot"
+                },
+                {
+                    "num": "815",
+                    "nombre": "Cinderace"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "num": "001",
+            "nombre": "Bulbasaur",
+            "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+            "tipo": "Césped",
+            "altura": "0.7 m",
+            "peso": "6.9 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "hielo",
+                "Volador",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "002",
+                    "nombre": "Ivysaur"
+                },
+                {
+                    "num": "003",
+                    "nombre": "Venusaur"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "num": "004",
+            "nombre": "Charmander",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+            "tipo": "Fuego",
+            "altura": "0.6 m",
+            "peso": "8.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "tierra",
+                "roca"
+            ],
+            "next_evolution": [
+                {
+                    "num": "005",
+                    "nombre": "Charmeleon"
+                },
+                {
+                    "num": "006",
+                    "nombre": "Charizard"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "num": "007",
+            "nombre": "Squirtle",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+            "tipo": "Agua",
+            "altura": "0.5 m",
+            "peso": "9.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Planta",
+                "Electrico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "008",
+                    "nombre": "Wartottle"
+                },
+                {
+                    "num": "009",
+                    "nombre": "Blastoise"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "num": "810",
+            "nombre": "Grookey",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/810.png",
+            "tipo": "Planta",
+            "altura": "0.3 m",
+            "peso": "5.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "hielo",
+                "Volador",
+                "Veneno",
+                "Bicho"
+            ],
+            "next_evolution": [
+                {
+                    "num": "811",
+                    "nombre": "Thwackey"
+                },
+                {
+                    "num": "812",
+                    "nombre": "Rillaboom"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "num": "808",
+            "nombre": "Meltan",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/808.png",
+            "tipo": "Acero",
+            "altura": "0.2 m",
+            "peso": "8.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Lucha",
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "809",
+                    "nombre": "Melmetal"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "num": "805",
+            "nombre": "Stakataka",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/805.png",
+            "tipo": [
+                "roca",
+                "Acero"
+            ],
+            "altura": "5.5 m",
+            "peso": "820.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "Lucha",
+                "Tierra"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 8,
+            "num": "806",
+            "nombre": "Blacephalon",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/806.png",
+            "tipo": [
+                "Fuego",
+                "Fantasma"
+            ],
+            "altura": "1.8 m",
+            "peso": "13.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "Fantasma",
+                "Tierra",
+                "siniestro",
+                "Roca"
+            ],
+            "next_evolution": [
+                "no evoluciona"
+            ]
+        },
+        {
+            "id": 9,
+            "num": "804",
+            "nombre": "Naganadel",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/804.png",
+            "tipo": [
+                "Veneno",
+                "Dragon"
+            ],
+            "altura": "3.6 m",
+            "peso": "150.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Tierra",
+                "hielo",
+                "Dragon",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "803",
+                    "nombre": "Poipole"
+                },
+                {
+                    "num": "804",
+                    "nombre": "Naganadel"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "num": "802",
+            "nombre": "Marshadow",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/802.png",
+            "tipo": [
+                "Lucha",
+                "Fantasma"
+            ],
+            "altura": "0.7 m",
+            "peso": "22.2 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Volador",
+                "Hada",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 11,
+            "num": "801",
+            "nombre": "Magearna",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png",
+            "tipo": [
+                "Acero",
+                "Hada"
+            ],
+            "altura": "1.0 m",
+            "peso": "80.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Tierra"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 12,
+            "num": "800",
+            "nombre": "Necrozma",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png",
+            "tipo": "Psíquico",
+            "altura": "2.4 m",
+            "peso": "230.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Siniestro",
+                "Bicho"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 13,
+            "num": "798",
+            "nombre": "Kartana",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/798.png",
+            "tipo": [
+                "Planta",
+                "Acero"
+            ],
+            "altura": "0.3 m",
+            "peso": "0.1 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Lucha"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 14,
+            "num": "100",
+            "nombre": "Voltorb",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+            "tipo": "Electrico",
+            "altura": "0.5 m",
+            "peso": "10.4 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "101",
+                    "nombre": "Electrode"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "num": "102",
+            "nombre": "Exeggcute",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+            "tipo": [
+                "Planta",
+                "Psíquico"
+            ],
+            "altura": "0.4 m",
+            "peso": "2.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Fuego",
+                "Volador",
+                "Hielo",
+                "Siniestro",
+                "Veneno",
+                "Bicho"
+            ],
+            "next_evolution": [
+                {
+                    "num": "103",
+                    "nombre": "Exeggutor"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "num": "104",
+            "nombre": "Cubone",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+            "tipo": "Tierra",
+            "altura": "0.4 m",
+            "peso": "6.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "Hielo",
+                "Planta"
+            ],
+            "next_evolution": [
+                {
+                    "num": "105",
+                    "nombre": "Marowak"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "num": "106",
+            "nombre": "Hitmonlee",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+            "tipo": "Lucha",
+            "altura": "1.5 m",
+            "peso": "49.8 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Hada",
+                "Volador",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "107",
+                    "nombre": "Hitmonchan"
+                },
+                {
+                    "num": "237",
+                    "nombre": "Hitmontop"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "num": "108",
+            "nombre": "Lickitung",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
+            "tipo": "Normal",
+            "altura": "1.2 m",
+            "peso": "65.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Lucha"
+            ],
+            "next_evolution": [
+                {
+                    "num": "463",
+                    "nombre": "Lickilicky"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "num": "109",
+            "nombre": "Koffing",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+            "tipo": "Veneno",
+            "altura": "0.6 m",
+            "peso": "1.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Tierra",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "110",
+                    "nombre": "Weezing"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "num": "111",
+            "nombre": "Rhyhorn",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+            "tipo": [
+                "Tierra",
+                "Roca"
+            ],
+            "altura": "1.0 m",
+            "peso": "115.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Acero",
+                "hielo",
+                "Agua",
+                "Lucha",
+                "Planta",
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "112",
+                    "nombre": "Rhydon"
+                },
+                {
+                    "num": "464",
+                    "nombre": "Rhyperior"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "num": "440",
+            "nombre": "Happiny",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/440.png",
+            "tipo": "Normal",
+            "altura": "0.6 m",
+            "peso": "24.4 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Lucha"
+            ],
+            "next_evolution": [
+                {
+                    "num": "113",
+                    "nombre": "Chansey"
+                },
+                {
+                    "num": "242",
+                    "nombre": "Blissey"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "num": "438",
+            "nombre": "Bonsly",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/438.png",
+            "tipo": "Roca",
+            "altura": "0.5 m",
+            "peso": "15.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "Acero",
+                "Planta",
+                "Lucha",
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "185",
+                    "nombre": "Sudowoodo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "num": "436",
+            "nombre": "Bronzor",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/436.png",
+            "tipo": [
+                "Acero",
+                "Psíquico"
+            ],
+            "altura": "0.5 m",
+            "peso": "60.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Fuego",
+                "Siniestro",
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "437",
+                    "nombre": "Bronzong"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "num": "120",
+            "nombre": "Staryu",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+            "tipo": "Agua",
+            "altura": "0.8 m",
+            "peso": "34.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Planta",
+                "Electrico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "121",
+                    "nombre": "Starmie"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "num": "439",
+            "nombre": "Mime Jr.",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.png",
+            "tipo": [
+                "Psíquico",
+                "Hada"
+            ],
+            "altura": "0.6 m",
+            "peso": "13.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Acero",
+                "Veneno"
+            ],
+            "next_evolution": [
+                {
+                    "num": "122",
+                    "nombre": "Mr. Mime"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "num": "123",
+            "nombre": "Scyther",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+            "tipo": [
+                "Bicho",
+                "Volador"
+            ],
+            "altura": "1.5 m",
+            "peso": "56.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Electrico",
+                "Volador",
+                "Hielo",
+                "Roca"
+            ],
+            "next_evolution": [
+                {
+                    "num": "212",
+                    "nombre": "Scizor"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "num": "238",
+            "nombre": "Smoochum",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/238.png",
+            "tipo": [
+                "Hielo",
+                "Psíquico"
+            ],
+            "altura": "0.4 m",
+            "peso": "6.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Acero",
+                "Fantasma",
+                "Siniestro",
+                "Roca",
+                "Bicho"
+            ],
+            "next_evolution": [
+                {
+                    "num": "124",
+                    "nombre": "Jynx"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "num": "137",
+            "nombre": "Porygon",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+            "tipo": "Normal",
+            "altura": "0.8 m",
+            "peso": "36.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Lucha"
+            ],
+            "next_evolution": [
+                {
+                    "num": "233",
+                    "nombre": "Porygon2"
+                },
+                {
+                    "num": "474",
+                    "nombre": "Porygon-z"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "num": "138",
+            "nombre": "Omanyte",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
+            "tipo": [
+                "Roca",
+                "Agua"
+            ],
+            "altura": "0.4 m",
+            "peso": "7.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Planta",
+                "Electrico",
+                "Lucha",
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "139",
+                    "nombre": "Omastar"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "num": "140",
+            "nombre": "Kabuto",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+            "tipo": [
+                "Roca",
+                "Agua"
+            ],
+            "altura": "0.5 m",
+            "peso": "11.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Planta",
+                "Electrico",
+                "Lucha",
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "141",
+                    "nombre": "Kabutops"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "num": "142",
+            "nombre": "Aerodactyl",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+            "tipo": [
+                "Roca",
+                "Volador"
+            ],
+            "altura": "1.8 m",
+            "peso": "59.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Acero",
+                "Agua",
+                "Electrico",
+                "Hielo",
+                "Roca"
+            ],
+            "next_evolution": [
+                " No evoluciona"
+            ]
+        },
+        {
+            "id": 32,
+            "num": "446",
+            "nombre": "Munchlax",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png",
+            "tipo": "Normal",
+            "altura": "0.6 m",
+            "peso": "105.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Lucha"
+            ],
+            "next_evolution": [
+                {
+                    "num": "143",
+                    "nombre": "Snorlax"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "num": "144",
+            "nombre": "Articuno",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+            "tipo": [
+                "Hielo",
+                "Volador"
+            ],
+            "altura": "1.7 m",
+            "peso": "55.4 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Acero",
+                "Electrico",
+                "Roca"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 34,
+            "num": "145",
+            "nombre": "Zapdos",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+            "tipo": [
+                "Electrico",
+                "Volador"
+            ],
+            "altura": "1.6 m",
+            "peso": "52.6 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Roca",
+                "Hielo"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 35,
+            "num": "147",
+            "nombre": "Dratini",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+            "tipo": "Dragon",
+            "altura": "0.71 m",
+            "peso": "6.9 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Hada",
+                "Hielo",
+                "Dragon"
+            ],
+            "next_evolution": [
+                {
+                    "num": "148",
+                    "nombre": "Dragonair"
+                },
+                {
+                    "num": "149",
+                    "nombre": "Dragonite"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "num": "150",
+            "nombre": "Mewtwo",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+            "tipo": "Psíquico",
+            "altura": "2.0 m",
+            "peso": "122.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Siniestro",
+                "Bicho"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 37,
+            "num": "151",
+            "nombre": "Mew",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+            "tipo": "Psíquico",
+            "altura": "0.4 m",
+            "peso": "4.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fantasma",
+                "Siniestro",
+                "Bicho"
+            ],
+            "next_evolution": [
+                "No evoluciona"
+            ]
+        },
+        {
+            "id": 38,
+            "num": "152",
+            "nombre": "Chikorita",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png",
+            "tipo": "Planta",
+            "altura": "0.9 m",
+            "peso": "6.4 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Hielo",
+                "Volador",
+                "Veneno",
+                "Bicho"
+            ],
+            "next_evolution": [
+                {
+                    "num": "153",
+                    "nombre": "Bayleef"
+                },
+                {
+                    "num": "154",
+                    "nombre": "Meganium"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "num": "155",
+            "nombre": "Cyndaquil",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png",
+            "tipo": "Fuego",
+            "altura": "0.5 m",
+            "peso": "7.9 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "Tierra",
+                "Roca"
+            ],
+            "next_evolution": [
+                {
+                    "num": "156",
+                    "nombre": "Quilava"
+                },
+                {
+                    "num": "157",
+                    "nombre": "Typhlosion"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "num": "158",
+            "nombre": "Totodile",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png",
+            "tipo": "Agua",
+            "altura": "0.6 m",
+            "peso": "9.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Planta",
+                "Electrico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "159",
+                    "nombre": "Croconaw"
+                },
+                {
+                    "num": "160",
+                    "nombre": "Feraligatr"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "num": "161",
+            "nombre": "Sentret",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/161.png",
+            "tipo": "Normal",
+            "altura": "0.8 m",
+            "peso": "6.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Lucha"
+            ],
+            "next_evolution": [
+                {
+                    "num": "162",
+                    "nombre": "Furret"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "num": "163",
+            "nombre": "Hoothoot",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/163.png",
+            "tipo": [
+                "Normal",
+                "volador"
+            ],
+            "altura": "0.7 m",
+            "peso": "21.2 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Electrico",
+                "Hielo",
+                "Roca"
+            ],
+            "next_evolution": [
+                {
+                    "num": "164",
+                    "nombre": "Noctowl"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "num": "165",
+            "nombre": "Ledyba",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/165.png",
+            "tipo": [
+                "Bicho",
+                "Volador"
+            ],
+            "altura": "1.0 m",
+            "peso": "10.8 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Electrico",
+                "Volador",
+                "Hielo",
+                "Roca"
+            ],
+            "next_evolution": [
+                {
+                    "num": "166",
+                    "nombre": "Ledian"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "num": "167",
+            "nombre": "Spinarak",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png",
+            "tipo": [
+                "Bicho",
+                "Veneno"
+            ],
+            "altura": "0.5 m",
+            "peso": "8.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "hielo",
+                "Roca",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "168",
+                    "nombre": "Ariados"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "num": "172",
+            "nombre": "Pichu",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png",
+            "tipo": "Electrico",
+            "altura": "0.3 m",
+            "peso": "2.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Tierra"
+            ],
+            "next_evolution": [
+                {
+                    "num": "025",
+                    "nombre": "Pikachu"
+                },
+                {
+                    "num": "026",
+                    "nombre": "Raichu"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "num": "173",
+            "nombre": "Cleffa",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/173.png",
+            "tipo": "Hada",
+            "altura": "0.3 m",
+            "peso": "3.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Acero",
+                "Veneno"
+            ],
+            "next_evolution": [
+                {
+                    "num": "035",
+                    "nombre": "Clefairy"
+                },
+                {
+                    "num": "036",
+                    "nombre": "Clefable"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "num": "174",
+            "nombre": "Igglybuff",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/174.png",
+            "tipo": [
+                "Normal",
+                "Hada"
+            ],
+            "altura": "0.3 m",
+            "peso": "1.0 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Acero",
+                "Veneno"
+            ],
+            "next_evolution": [
+                {
+                    "num": "039",
+                    "nombre": "Jigglypuff"
+                },
+                {
+                    "num": "040",
+                    "nombre": "Wigglytuff"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "num": "041",
+            "nombre": "Zubat",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+            "tipo": [
+                "Veneno",
+                "Volador"
+            ],
+            "altura": "0.8 m",
+            "peso": "7.5 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Electrico",
+                "Hielo",
+                "Roca",
+                "Psíquico"
+            ],
+            "next_evolution": [
+                {
+                    "num": "042",
+                    "nombre": "Golbat"
+                },
+                {
+                    "num": "169",
+                    "nombre": "Crobat"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "num": "046",
+            "nombre": "Paras",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+            "tipo": [
+                "Bicho",
+                "Planta"
+            ],
+            "altura": "0.3 m",
+            "peso": "5.4 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Fuego",
+                "Hielo",
+                "Volador",
+                "Veneno",
+                "Roca",
+                "Bicho"
+            ],
+            "next_evolution": [
+                {
+                    "num": "047",
+                    "nombre": "Parasect"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "num": "050",
+            "nombre": "Diglett",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+            "tipo": "Tierra",
+            "altura": "0.2 m",
+            "peso": "0.8 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "huevo": "2 km",
+            "spawn_chance": 69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multiplicadores": [
+                1.58
+            ],
+            "debilidades": [
+                "Agua",
+                "hielo",
+                "Planta"
+            ],
+            "next_evolution": [
+                {
+                    "num": "051",
+                    "nombre": "Dugtrio"
+                }
+            ]
+        }
+    ]
+}
+   
