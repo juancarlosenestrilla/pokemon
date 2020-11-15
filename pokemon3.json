@@ -332,9 +332,9 @@
         "Tierra"
       ],
       "next_evolution": [{
-      "num": "0",
-      "name": "No Evolucina"
-      }]
+        "num": "0",
+        "name": "No evoluciona"
+        }]     
     }, {
       "id": 12,
       "num": "800",
@@ -357,7 +357,7 @@
       "next_evolution": [{
       "num": "0",
       "name": "Esta es la evolución final"
-             } ]
+        }]
     }, {
       "id": 13,
       "num": "798",
@@ -399,13 +399,11 @@
       "spawn_time": "20:00",
       "multipliers": [1.58],
       "weaknesses": [
-          "Tierra" ],
-      "next_evolution": [
-          {
-              "num": "101",
-              "nombre": "Electrode"
-          }
-      ]   
+          "Tierra" ], 
+      "next_evolution": [{
+        "num": "101",
+        "name": "Electrode"
+        }]  
     }, {
       "id": 15,
       "num": "102",
@@ -433,12 +431,10 @@
           "Veneno",
           "Bicho"
       ],
-      "next_evolution": [
-          {
-              "num": "103",
-              "name": "Exeggutor"
-          }
-      ]
+      "next_evolution": [{
+        "num": "103",
+        "name": "Exeggutor"
+        }]
     }, { 
       "id": 16,
       "num": "104",
@@ -459,12 +455,10 @@
           "Hielo",
           "Planta"
       ],
-      "next_evolution": [
-          {
-              "num": "105",
-              "name": "Marowak"
-          }
-      ]
+      "next_evolution": [{
+        "num": "105",
+        "name": "Marowak"
+        }]
     }, {
       "id": 17,
       "num": "106",
@@ -485,16 +479,13 @@
           "Volador",
           "Psíquico"
       ],
-      "next_evolution": [
-          {
-              "num": "107",
-              "name": "Hitmonchan"
-          },
-          {
-              "num": "237",
-              "name": "Hitmontop"
-          }
-      ]    
+      "next_evolution": [{
+        "num": "107",
+        "name": "Hitmonchan"
+        }, {
+        "num": "237",
+        "name": "Hitmontop"
+      }]   
     }, {
       "id": 18,
       "num": "059",
@@ -543,12 +534,10 @@
           "Tierra",
           "Psíquico"
       ],
-      "next_evolution": [
-          {
-              "num": "110",
-              "name": "Weezing"
-          }
-      ]    
+      "next_evolution": [{
+        "num": "110",
+        "name": "Weezing"
+        }]   
     }, {
       "id": 20,
       "num": "111",
@@ -575,16 +564,13 @@
           "Planta",
           "Tierra"
       ],
-      "next_evolution": [
-          {
-              "num": "112",
-              "name": "Rhydon"
-          },
-          {
-              "num": "464",
-              "name": "Rhyperior"
-          }
-      ]    
+      "next_evolution": [{
+      "num": "112",
+      "name": "Rhydon"
+       }, {
+      "num": "464",
+      "name":"Rhyperior"
+       }]   
     }, {
       "id": 21,
       "num": "084",
