@@ -284,21 +284,21 @@
     }]
   }, {
     "id": 10,
-    "num": "111",
-    "name": "Rhyhorn",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "802",
+    "name": "Marshadow",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/802.png",
     "type": [
-      "Tierra",
-      "Roca"
+      "Lucha",
+      "Fantasma"
     ],
-    "height": "1.0 m",
-    "weight": "115 kg",
-    "candy": "Rhyhorn Candy",
-    "egg": "",
-    "spawn_chance": 0.05,
-    "avg_spawns": 1.04,
+    "height": "0.7m",
+    "weight": "22.2 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
     "spawn_time": "21:09",
-    "multipliers": [1.3],  
+    "multipliers": [1.58],  
     "weaknesses": [
       "Acero",
       "Hielo",
@@ -306,40 +306,33 @@
       "Tierra"
     ],
       "next_evolution": [{
-      "num": "112",
-      "name": "Rhydon"
-      },{
-        "num": "464",
-        "name": "Rhyperior"
-    }]
+      "num": "0",
+      "name": "No evoluciona"
+      }]
   }, {
     "id": 11,
-    "num": "016",
-    "name": "Pidgey",
-    "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+    "num": "801",
+    "name": "Magearna",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png",
     "type": [
-      "Normal",
-      "Volador"
+      "Acero",
+      "Hada"
     ],
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "candy": "Pidgey Candy",
+    "height": "1.0 m",
+    "weight": "80.5 kg",
+    "candy": "Bulbasaur Candy",
     "egg": "2 km",
-    "spawn_chance": 0.054,
-    "avg_spawns": 0.94,
-    "spawn_time": "12:08",
-    "multipliers": [1.6],  
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:0",
+    "multipliers": [1.58],  
     "weaknesses": [
-      "Electrico",
-      "Hielo",
-      "Roca"
+      "Fuego",
+      "Tierra"
     ],
       "next_evolution": [{
-      "num": "017",
-      "name": "Pidgeotto"
-      },{
-        "num": "018",
-        "name": "Pidgeot"
+      "num": "0",
+      "name": "Ya no evoluciona"
     }]
   }, {
     "id": 12,
