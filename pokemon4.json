@@ -222,7 +222,8 @@
                 "Tierra"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "No Evolucina"
             }]
         },
         {
@@ -253,7 +254,8 @@
                 "Roca"
             ],
             "next_evolution": [{
-                "no evoluciona"
+                "num": "0",
+                "name": "No Evolucina"
         }]
         },
         {
@@ -321,7 +323,7 @@
             ],
             "next_evolution": [{
                  "num": "0",
-                  "name": "Esta es la evolución final"
+                  "name": "No Evolucina"
             }]
         },
         {
@@ -349,7 +351,8 @@
                 "Tierra"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "No Evolucina"
              } ]
         },
         {
@@ -375,7 +378,8 @@
                 "Bicho"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "Esta es la evolución final"
              } ]
         },
         {
@@ -403,7 +407,8 @@
                 "Lucha"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "Esta es la evolución final"
             }]
         },
         {
@@ -974,7 +979,8 @@
                 "Roca"
             ],
             "next_evolution": [{
-                " No evoluciona"
+                "num": "0",
+                "name": "No evoluciona"
             }]
         },
         {
@@ -1031,7 +1037,8 @@
                 "Roca"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "No evoluciona"
              } ]
         },
         {
@@ -1059,7 +1066,8 @@
                 "Hielo"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "No evoluciona"
             }]
         },
         {
@@ -1118,7 +1126,8 @@
                 "Bicho"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "No evoluciona"
             }]
         },
         {
@@ -1144,7 +1153,8 @@
                 "Bicho"
             ],
             "next_evolution": [{
-                "No evoluciona"
+                "num": "0",
+                "name": "No evoluciona"
             }]
         },
         {
