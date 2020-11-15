@@ -1417,7 +1417,7 @@
             "spawn_chance": 69,
             "avg_spawns": 69,
             "spawn_time": "20:00",
-            "multipliers: [
+            "multipliers": [
                 1.58
             ],
             "weaknesses": [
