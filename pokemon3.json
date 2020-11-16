@@ -685,7 +685,7 @@
     "id": 25,
     "num": "439",
     "name": "Mime Jr.",
-    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.pngg",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.png",
     "type": [
       "Psíquico",
       "Hada"
@@ -846,145 +846,134 @@
       }]
   }, {
     "id": 31,
-    "num": "300",
-    "name": "Skitty",
-    "img": "http://www.serebii.net/pokemongo/pokemon/300.png",
+    "num": "142",
+    "name": "Aerodactyl",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+    "type": [
+      "Roca",
+      "Volador"     
+    ],
+    "height": "1.8 m",
+    "weight": "59 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
+    "weaknesses": [
+      "Aceroades",
+      "Agua",
+      "Electrico",
+      "Hielo",
+      "Roca"     
+    ],
+      "next_evolution": [{
+      "num": "0",
+      "name": "No evoluciona"
+      }]
+  }, {
+    "id": 32,
+    "num": "446",
+    "name": "Munchlax",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png",
     "type": [
       "Normal"
     ],
     "height": "0.6 m",
-    "weight": "11.0 kg",
-    "candy": "Skitty Candy",
-    "egg": "4 km",
-    "spawn_chance": 0.074,
-    "avg_spawns": 1.23,
-    "spawn_time": "40:41",
-    "multipliers": [2.4],  
+    "weight": "105.5 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
       "Lucha"
     ],
+   
       "next_evolution": [{
-      "num": "301",
-      "name": "Delcatty"
-      }]
-  }, {
-    "id": 32,
-    "num": "333",
-    "name": "Altaira",
-    "img": "http://www.serebii.net/pokemongo/pokemon/333.png",
-    "type": [
-      "Dragón",
-      "Volador"
-    ],
-    "height": "1.1 m",
-    "weight": "20.6 kg",
-    "candy": "Altaira Candy",
-    "egg": "3 km",
-    "spawn_chance": 0.904,
-    "avg_spawns": 2.16,
-    "spawn_time": "34:00",
-    "multipliers": null,  
-    "weaknesses": [
-      "Hada",
-      "Dragón",
-      "Hielo",
-      "Roca"
-    ],
-    "prev_evolution": [{
-      "num": "333",
-      "name": "Swablu"
-    }],
-      "next_evolution": [{
-      "num": "0",
-      "name": "Esta es laevolución final"
+      "num": "143",
+      "name": "Snorlax"
       }]
   }, {
     "id": 33,
-    "num": "344",
-    "name": "Claydol",
-    "img": "http://www.serebii.net/pokemongo/pokemon/344.png",
+    "num": "144",
+    "name": "Articuno",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
     "type": [
-      "Tierra",
-      "Psíquico"
-    ],
-    "height": "1.5 m",
-    "weight": "108 kg",
-    "candy": "Claydol Candy",
-    "egg": "4 km",
-    "spawn_chance": 0.09,
-    "avg_spawns": 0.791,
-    "spawn_time": "16:50",
-    "multipliers": null,  
-    "weaknesses": [
-      "Fantasma",
-      "Agua",
       "Hielo",
-      "Bicho"
+      "Volador"     
     ],
-    "prev_evolution": [{
-      "num": "343",
-      "name": "Baltoy"
-    }],
+    "height": "1.7 m",
+    "weight": "55.4 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
+    "weaknesses": [
+      "Fuego",
+      "Acero",
+      "Electrico",
+      "Roca"    
+    ],
+   
       "next_evolution": [{
-      "num": "0",
-      "name": "Esta es la evolución final"
+      "num": "145",
+      "name": "No evoluciona"
       }]
   }, {
     "id": 34,
-    "num": "369",
-    "name": "Relicanth",
-    "img": "http://www.serebii.net/pokemongo/pokemon/369.png",
+    "num": "145",
+    "name": "Zapdos",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
     "type": [
-      "Agua",
-      "Roca"
+      "Electrico",
+      "Volador"      
     ],
-    "height": "1.0 m",
-    "weight": "23.4 kg",
+    "height": "1.6 m",
+    "weight": "52.6 kg",
     "candy": "Relicanth Candy",
-    "egg": "5 km",
-    "spawn_chance": 0.054,
-    "avg_spawns": 1.07,
-    "spawn_time": "20:54",
-    "multipliers": null,  
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
-      "Planta",
-      "Eléctrico",
-      "Lucha",
-      "Tierra"
+      "Roca",
+      "Hielo"     
     ],
       "next_evolution": [{
       "num": "0",
-      "name": "Este Pokémon no evoluciona"
+      "name": "No evoluciona"
       }]
   }, {
     "id": 35,
-    "num": "400",
-    "name": "Bibarel",
-    "img": "http://www.serebii.net/pokemongo/pokemon/400.png",
+    "num": "147",
+    "name": "Dratini",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
     "type": [
-      "Normal",
-      "Agua"
+      "Dragón"
     ],
-    "height": "1.0 m",
-    "weight": "31.5 kg",
-    "candy": "Bibarel Candy",
-    "egg": "3 km",
-    "spawn_chance": 0.15,
-    "avg_spawns": 1.08,
-    "spawn_time": "21:02",
-    "multipliers": null,  
+    "height": ".71 m",
+    "weight": "6.9 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
-      "Planta",
-      "Eléctrico",
-      "Lucha"
+      "Hada",
+      "Hielo",
+      "Dragon"    
     ],
-    "prev_evolution": [{
-      "num": "399",
-      "name": "Bidoof"
-    }],
+    
       "next_evolution": [{
-      "num": "0",
-      "name": "Esta es la evolución final"
+      "num": "148",
+      "name": "Dragonite"
       }]
   }, {
     "id": 36,
@@ -999,121 +988,128 @@
     "weight": "2.0 kg",
     "candy": "Roselia Candy",
     "egg": "2 km",
-    "spawn_chance": 0.079,
-    "avg_spawns": 2.02,
-    "spawn_time": "26:04",
-    "multipliers": [2.1],  
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
       "Fuego",
       "Psíquico",
       "Volador",
       "Hielo"
     ],
-    "prev_evolution": [{
-      "num": "406",
-      "name": "Budew"
-    }],
+   
       "next_evolution": [{
       "num": "407",
       "name": "Roserade"
       }]
   }, {
     "id": 37,
-    "num": "309",
-    "name": "Electrike",
-    "img": "http://www.serebii.net/pokemongo/pokemon/309.png",
+    "num": "151",
+    "name": "Mew",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
     "type": [
-      "Eléctrico"
+      "Psíquico"
     ],
-    "height": "0.6 m",
-    "weight": "15.2 kg",
-    "candy": "Electrike Candy",
-    "egg": "4 km",
-    "spawn_chance": 0.077,
-    "avg_spawns": 2.01,
-    "spawn_time": "20:10",
-    "multipliers": [1.5],  
+    "height": "0.4 m",
+    "weight": "4.0 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
-      "Tierra"
+      "Fantasma",
+      "Siniestro",
+      "Bicho"     
     ],
       "next_evolution": [{
-      "num": "310",
-      "name": "Manectric"
+      "num": "0",
+      "name": "No evoluciona"
       }]
   }, {
     "id": 38,
-    "num": "432",
-    "name": "Purugly",
-    "img": "http://www.serebii.net/pokemongo/pokemon/432.png",
+    "num": "152",
+    "name": "Chikorita",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png",
     "type": [
-      "Normal"
+      "Planta"
     ],
-    "height": "1.0 m",
-    "weight": "43.8 kg",
-    "candy": "Purugly Candy",
-    "egg": "3 km",
-    "spawn_chance": 0.12,
-    "avg_spawns": 1.078,
-    "spawn_time": "26:09",
-    "multipliers": null,  
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
-      "Lucha"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Veneno",
+      "Bicho"      
     ],
     "prev_evolution": [{
-      "num": "431",
-      "name": "Glameow"
+      "num": "152",
+      "name": "Bayleef"
     }],
       "next_evolution": [{
-      "num": "0",
-      "name": "Esta es la evolución final"
+      "num": "154",
+      "name": "Meganium"
       }]
   }, {
     "id": 39,
-    "num": "456",
-    "name": "Finneon",
-    "img": "http://www.serebii.net/pokemongo/pokemon/456.png",
+    "num": "155",
+    "name": "Cyndaquil",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png",
     "type": [
-      "Agua"
+      "Fuego"
     ],
-    "height": "0.4 m",
-    "weight": "7.0 kg",
-    "candy": "Finneon Candy",
+    "height": "0.5 m",
+    "weight": "7.9 kg",
+    "candy": "Bulbasaur Candy",
     "egg": "5 km",
-    "spawn_chance": 0.08,
-    "avg_spawns": 2.015,
-    "spawn_time": "14:02",
-    "multipliers": [2.0],  
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
-      "Planta",
-      "Eléctrico"
+      "Agua",
+      "Tierra",
+      "Roca"    
     ],
       "next_evolution": [{
-      "num": "457",
-      "name": "Lumineon"
+      "num": "156",
+      "name": "Quilava"
       }]
   }, {
     "id": 40,
-    "num": "489",
-    "name": "Phione",
-    "img": "http://www.serebii.net/pokemongo/pokemon/489.png",
+    "num": "158",
+    "name": "Totodile",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png",
     "type": [
       "Agua"
     ],
-    "height": "0.4 m",
-    "weight": "3.1 kg",
-    "candy": "Phione Candy",
-    "egg": "3 km",
-    "spawn_chance": 0.07,
-    "avg_spawns": 1.54,
-    "spawn_time": "23:42",
-    "multipliers": null,  
+    "height": "0.6 m",
+    "weight": "9.5 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "2 km",
+    "spawn_chance": 69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],  
     "weaknesses": [
       "Planta",
-      "Eléctrico"
+      "Electrico"     
     ],
       "next_evolution": [{
-      "num": "0",
-      "name": "Este Pokémon no evoluciona"
+      "num": "159",
+      "name": "Croconaw"
+      },{
+        "num": "160",
+        "name": "Feraligatr"
       }]
   }, {
     "id": 41,
